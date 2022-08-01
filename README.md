@@ -1,4 +1,4 @@
-### Sunny Shree
+### DeltaExplainer: A Software Debugging Approach to Generating Counterfactual Explanations
 
 <!--
 **DeltaExplainer/DeltaExplainer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
