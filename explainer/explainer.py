@@ -20,7 +20,7 @@ from dice_ml.utils import helpers # helper functions
 
 results = pd.DataFrame(columns=columns)
 numberOfCFs = 1
-instance = x_test[xset[j]-1:xset[j]]
+instance = x_test[0:1]
 example = Our_exp(instance)
 z = example.generate_counterfactuals(numberOfCFs)
 results = results.append(instance)
