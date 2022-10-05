@@ -1,5 +1,5 @@
 from testConfig import *
-from testOutcome import oc_test
+from testOutcome import *
 from candidates import *
 from setval import *
 import dice_ml #for puturbations
