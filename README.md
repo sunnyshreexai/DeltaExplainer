@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <br/>
 
 ## Dependencies
-------
 
 pip install -r requirements.txt
 1. Python 3.6
