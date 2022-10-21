@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 
 ## Dependencies
 
-pip install -r requirements.txt
 1. Python 3.6
 2. Tensorflow 1.15
-3.  scikit-learn
+3. scikit-learn 1.1
+
+## Install all dependencies
+
+pip install -r requirements.txt
