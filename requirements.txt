@@ -1,0 +1,8 @@
+python
+scikit-learn
+numpy 
+pandas
+tensorflow
+tqdm
+h5py
+jsonschema
