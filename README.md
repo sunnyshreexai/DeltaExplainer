@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br/>
+
 ## Dependencies
 ------
+
 pip install -r requirements.txt
+1. Python 3.6
+2. Tensorflow 1.15
+3.  scikit-learn
