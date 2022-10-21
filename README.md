@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 ## Install all dependencies
 
 pip install -r requirements.txt
+
+## Generating Counterfactuals
+
+Run explainer/driver.py
